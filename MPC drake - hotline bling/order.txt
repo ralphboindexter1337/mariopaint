@@ -1,0 +1,17 @@
+MarioPaint*hotline - intro]MarioPaint*hotline - chorus 1]MarioPaint*hotline - verse 1]MarioPaint*hotline - chorus 2]MarioPaint*hotline - verse 2]MarioPaint*hotline - bridge 2]MarioPaint*hotline - bridge 1]MarioPaint*hotline - bridge 3]MarioPaint*hotline - outro 1]MarioPaint*hotline - outro 2]MarioPaint*hotline - outro 3]MarioPaint*
+
+
+ARR ORDER:
+hotline - intro
+hotline - chorus 1
+hotline - verse 1
+hotline - chorus 2
+hotline - verse 2
+hotline - chorus 2
+hotline - bridge 1
+hotline - bridge 2
+hotline - bridge 3
+hotline - chorus 2
+hotline - outro 1
+hotline - outro 2
+hotline - outro 3
