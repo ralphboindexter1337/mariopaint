@@ -1,0 +1,5 @@
+npsom intro]MarioPaint*npsom intro 2]MarioPaint*npsom verse 1]MarioPaint*npsom verse 1-2]MarioPaint*npsom chorus 1]MarioPaint*npsom chorus 1-2]MarioPaint*npsom verse 2]MarioPaint*npsom verse 2-2]MarioPaint*npsom chorus 2]MarioPaint*npsom bridge]MarioPaint*npsom bridge 2]MarioPaint*npsom bridge 3]MarioPaint*npsom outro]MarioPaint*npsom outro 2]MarioPaint*npsom outro 3]MarioPaint*npsom outro 4]MarioPaint*
+
+
+ARR ORDER:
+npsom intronpsom intro 2npsom verse 1npsom verse 1-2npsom chorus 1npsom chorus 1-2npsom verse 2npsom verse 2-2npsom chorus 2npsom bridgenpsom bridge 2npsom bridge 3npsom outronpsom outro 2npsom outro 3npsom outro 4
