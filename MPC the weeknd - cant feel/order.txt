@@ -1,0 +1,5 @@
+cantfeel intro]MarioPaint*cantfeel verse 1]MarioPaint*cantfeel chorus 1]MarioPaint*cantfeel verse 2]MarioPaint*cantfeel chorus 2]MarioPaint*cantfeel bridge]MarioPaint*cantfeel bridge 2]MarioPaint*cantfeel chorus 3]MarioPaint*cantfeel outro]MarioPaint*
+
+
+ARR:
+cantfeel introcantfeel verse 1cantfeel chorus 1cantfeel verse 2cantfeel chorus 2cantfeel bridgecantfeel bridge 2cantfeel chorus 3cantfeel outro
