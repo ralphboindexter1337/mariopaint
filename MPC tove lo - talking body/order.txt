@@ -1,0 +1,13 @@
+TB - intro]MarioPaint*TB - verse 1]MarioPaint*TB - chorus 1]MarioPaint*TB - verse 2]MarioPaint*TB - chorus 2]MarioPaint*TB - bridge]MarioPaint*TB - chorus 3]MarioPaint*TB - outro 1]MarioPaint*
+
+
+ARR ORDER:
+TB - intro
+TB - verse 1
+TB - chorus 1
+TB - verse 2
+TB - chorus 2
+TB - bridge
+TB - chorus 3
+TB - outro 1
+
